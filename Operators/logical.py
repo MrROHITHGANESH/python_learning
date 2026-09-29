@@ -17,3 +17,6 @@ marks = int(input("Enter marks:"))
 attendance = int(input("Enter attendance:"))
 print(age>=90 or attendance>=95)
 
+
+
+
